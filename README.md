@@ -14,6 +14,12 @@ El microservicio se conecta a las OLTs utilizando SNMP (Simple Network Managemen
 
 En resumen, este proyecto no es solo "código que funciona". Es una demostración de cómo construir un servicio Go siguiendo las mejores prácticas de la industria: una arquitectura sólida, preparado para la observabilidad, con un manejo de errores robusto y una excelente experiencia para el desarrollador.
 
+### Video demostrativo de como se refleja parte de la informacion capturada con este servicio, utilizando Grafana para el despliegue de graficas.
+
+https://github.com/user-attachments/assets/5cb90417-e5b9-45f2-9143-95b1d27bb298
+
+https://github.com/user-attachments/assets/c40d08d2-59cd-4724-9981-e449a8802e6d
+
 ### this project contains the next tasks ###
 * project to handle all olts related tasks
 * get clock or time from olt (getClock, oltInfo, oltAutoWrite, oltCleaningDb, onuInfo, onuTraffic, onuCleaningDb)
