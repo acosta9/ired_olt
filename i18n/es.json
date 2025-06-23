@@ -1,0 +1,51 @@
+
+{
+  "tokenMissing": "token faltante",
+  "tokenInvalid": "token no valido",
+  "tokenExpired": "token ha expirado",
+
+  "formDocId": "docid ya existe",
+  "formOK": "el formulario ha sido guardado exitosamente",
+  "queryOK": "consulta realizada exitosamente",
+  "cronOK": "cron ejecutado exitosamente",
+  "changePasswdOk": "la contraseña ha sido cambiado exitosamente",
+  
+  "invalidJson": "json no valido",
+  
+  "invalidLogin": "usuario o contraseña invalida",
+  "alreadyLogin": "la sesión ya ha sido establecida",  
+  "loginSuccessful": "haz iniciado sesión correctamente",
+  "logoutSuccessful": "haz cerrado sesión correctamente",
+  "userNotAuth": "usuario no autenticado",
+  "passwdChangeRequired": "cambio de contraseña requerido",
+  "emailPasswordSent": "un correo electronico fue enviado ha",
+  "emailInstuctions": "con las instrucciones para reestablecer su contraseña",
+
+  "recordDontExist": "el registro no existe",
+  "recordDeleteOK": "el registro fue eliminado correctamente",
+
+  "errorFailedBody": "ocurrio un error en el json body",
+  "errorGetData": "ocurrio un error extrayendo los registro(s)",
+  "errorUpdateRecord": "ocurrio un error actualizando el registro",
+  "errorInsertRecord": "ocurrio un error insertando el registro(s)",
+  "errorDeleteRecord": "ocurrio un error eliminando el registro(s)",
+  "errorPage": "pagina no existe o no contiene registros",
+  "errorInternal": "ocurrio un error y la solicitud no pudo ser completada",
+  "errorEmail": "ocurrio un error enviando el correo electronico",
+
+  "veRequired": "requerido",
+  "veNumber": "solo numeros permitidos",
+  "veNumeric": "solo numeros o decimales permitidos",
+  "veMinChar": "deberia contener mas de",
+  "veMaxChar": "deberia contener menos de",
+  "veChar": "caractere(s)",
+  "veAlphaNumSpa": "solo se aceptan numeros y letras",
+  "veGte": "debe ser igual o mayor que",
+  "veLte": "debe ser igual o menor que",
+  "veNotzero": "cero(0) no esta permitido",
+  "veBoolean": "solo true o false permitido",
+  "vePasswordStrength": "La contraseña es débil, asegúrese de que cumpla con los requisitos de seguridad",
+
+
+  "titleChangePassword": "[Besser Solutions] Codigo de Verificacion para cambiar contraseña"
+}

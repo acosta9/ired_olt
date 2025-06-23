@@ -1,0 +1,50 @@
+
+{
+  "tokenMissing": "token missing",
+  "tokenInvalid": "token invalid",
+  "tokenExpired": "token has expired",
+  
+  "formDocId": "docid already exist",
+  "formOK": "the form was saved correctly",
+  "queryOK": "query successfully",
+  "cronOK": "cron was executed successfully",
+  "changePasswdOk": "password was change successfully",
+
+  "invalidJson": "invalid JSON",
+
+  "invalidLogin": "invalid username or password",
+  "alreadyLogin": "session has already been stablished",
+  "loginSuccessful": "loggin successfully",
+  "logoutSuccessful": "logout successfully",
+  "userNotAuth": "unauthenticated user",
+  "passwdChangeRequired": "password change is required",
+  "emailPasswordSent": "an email was send to",
+  "emailInstuctions": "with the instrucctions to reset the password",
+  
+  "recordDontExist": "record does not exist",
+  "recordDeleteOK": "record was successfully deleted",
+
+  "errorFailedBody": "failed to read json body",  
+  "errorGetData": "an error occurred getting the data",
+  "errorUpdateRecord": "an error occurred updating the record",
+  "errorInsertRecord": "an error occurred inserting the record(s)",
+  "errorDeleteRecord": "an error occurred deleting the record(s)",
+  "errorPage": "page does not exist",
+  "errorInternal": "an error occurred and request could not be completed",
+  "errorEmail": "an error ocurred sending the email(s)",
+  
+  "veRequired": "required",
+  "veNumber": "just numbers accepted",
+  "veNumeric": "just numbers or decimal accepted",
+  "veMinChar": "should be greater than",
+  "veMaxChar": "should be less than",
+  "veChar": "char(s)",
+  "veAlphaNumSpa": "only numbers and letters accepted",
+  "veGte": "must be equal or greater than",
+  "veLte": "must be equal or less than",
+  "veNotzero": "zero(0) is not allowed",
+  "veBoolean": "only true or false allowed",
+  "vePasswordStrength": "password is too weak, please ensure it meets strength requirements",
+
+  "titleChangePassword": "[Besser Solutions] Verification Code To Change Password"
+}

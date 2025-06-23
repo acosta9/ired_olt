@@ -1,0 +1,37 @@
+[
+  {
+    "schedule": "1 */1 * * *",
+    "task": "clean_olt_data",
+    "enabled": true
+  },
+  {
+    "schedule": "*/5 * * * *",
+    "task": "get_clock",
+    "enabled": true
+  },
+  {
+    "schedule": "1-59/2 * * * *",
+    "task": "get_olt_info",
+    "enabled": true
+  },
+  {
+    "schedule": "3 */2 * * *",
+    "task": "olt_autowrite",
+    "enabled": true
+  },
+  {
+    "schedule": "*/1 * * * *",
+    "task": "get_onu_info",
+    "enabled": true
+  },
+  {
+    "schedule": "1-59/2 * * * *",
+    "task": "get_onu_traffic",
+    "enabled": true
+  },
+  {
+    "schedule": "1 */6 * * *",
+    "task": "clean_onu_data",
+    "enabled": true
+  }
+]
